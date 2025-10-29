@@ -539,6 +539,60 @@
               "latitude": 42.8746,
               "longitude": 74.5968
 	  }
-       }
+       },
+	 {
+ 	 "id": 31,
+  		"agency": "UNDP",
+		"topic": "Improving Transparency & Accountability",
+		"country": "Tajikistan",
+		"country_code": "TJ",
+		"continent": "Asia",
+		"title": "Whistleblower Protection - Transparency & Accountability",
+		"partner": "Anti-Corruption & Civil Rights Commission",
+		"stakeholders": "Agency for State Financial Control and Combating Corruption, Agency of Innovation and Digital Technologies",
+		"budget": "100,000 USD",
+		"completion_date": "2026",
+		"description": "The project aims to strengthen the anti-corruption ecosystem in Tajikistan by developing and institutionalizing whistleblower protection and integrity assessment mechanisms inspired by the models of Anti-Corruption & Civil Rights Commission. The initiative includes establishing a legal and policy framework and developing a secure, user-friendly digital platform for reporting. Taking a comprehensive approach, the project will also benefit from cross-cutting support from the UNDP Seoul Policy Centre, leveraging expertise in governance and digital transformation.",
+		"coordinates": {
+		    "latitude": 38.5598,
+		    "longitude": 68.7870
+ 	 }
+	  },
+	{
+  	"id": 32,
+  		"agency": "UNDP",
+  		"topic": "Improving Transparency & Accountability",
+  		"country": "Zambia",
+  		"country_code": "ZM",
+ 		"continent": "Africa",
+  		"title": "Whistleblower Protection - Transparency & Accountability",
+  		"partner": "Anti-Corruption & Civil Rights Commission",
+  		"stakeholders": "Anti-Corruption Commission, Transparency International Zambia, UNODC",
+  		"budget": "100,000 USD",
+  		"completion_date": "2026",
+  		"description": "The project aims to strengthen Zambia’s national whistleblower protection system by enhancing legal safeguards, institutional capacity, and digital reporting tools. Drawing on good practices from Anti-Corruption & Civil Rights Commission’s whistleblower protection systems, the project supports the Anti-Corruption Commission of Zambia in improving the Online Anonymous Whistleblower System (OAWS) to ensure confidentiality, timely responses, and user trust. The initiative prioritizes institutional capacity-building, the reinforcement of strategic partnerships, and enhanced coordination—underpinned by robust public awareness-raising and targeted interventions.",
+  		"coordinates": {
+    		"latitude": -15.3875,
+    		"longitude": 28.3228
+    }
+	 },
+   {
+    "id": 33,
+  		"agency": "UNDP",
+  		"topic": "Improving Transparency & Accountability",
+  		"country": "Pacific Islands (Vanuatu & Tonga)",
+  		"country_code": "FJ",
+  		"continent": "Oceania",
+  		"title": "Whistleblower Protection - Transparency & Accountability",
+  		"partner": "Anti-Corruption & Civil Rights Commission",
+  		"stakeholders": "Vanuatu: Prime Minister and Cabinet, Ministries of Justice and Community Services, Anti-Corruption Agency, Director of Public Prosecutions, Ombudsman, and oversight bodies / Tonga: Anti-Corruption Agency, enforcement and oversight bodies",
+  		"budget": "100,000 USD",
+  		"completion_date": "2026",
+  		"description": "The overall objective of the project is to establish and institutionalize effective whistleblower protection systems in Tonga and Vanuatu, while fostering regional collaboration and learning across Pacific Island countries. Drawing on Anti-Corruption & Civil Rights Commission’s tested-and-proven policy tools, the initiative supports Tonga and Vanuatu in operationalizing or finalizing their whistleblower protection laws. It also promotes regional collaboration, peer learning, and technical assistance to build safe, confidential reporting systems and increase public trust. By strengthening the legal foundation, building institutional capacity, and conducting inclusive awareness campaigns, the project empowers Pacific Island countries to create secure environments where whistleblowers are protected and integrity is upheld.",
+  		"coordinates": {
+    		"latitude": -18.1248,
+    		"longitude": 178.4501
+    }
+     }
   ]
 }
