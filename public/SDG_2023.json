@@ -439,12 +439,12 @@
           "country": "Türkiye",
           "country_code": "TR",
           "continent": "Europe",
-          "title": "Clean Construction System - Transparency & Accountability",
+          "title": "Clean Construction System (CCS) - Transparency & Accountability",
           "partner": "Seoul Metropolitan Government (SMG)",
-          "stakeholders": "Gaziantep Metropolitan Municipality",
-          "budget": "100,000 USD",
-          "completion_date": "2025",
-          "description": "Aims to build construction project management system inspired by SMG's CCS.",
+          "stakeholders": "Gaziantep Metropolitan Municipality (GMM)",
+          "budget": "150,000 USD",
+          "completion_date": "2026",
+          "description": "The project aims to introduce a transparent public construction management system, in Gaziantep, Türkiye, inspired by the Clean Construction System of the Seoul Metropolitan Government, with a strong emphasis on integrating citizen participation throughout the public construction process. The project will support (1) deployment of the CCS system with digital infrastructure and software integration for GMM’s construction management processes; (2) integration of citizen participation mechanisms into the Alimmi system; (3) strengthening the capacity of GMM staff and relevant stakeholders; and (4) implementing communication campaigns to raise public awareness and encourage citizen engagement. Through these efforts, the project aims to strengthen transparency and enhance public trust in the public construction sector.",
           "coordinates": {
               "latitude": 38.9637,
               "longitude": 35.2433
@@ -610,6 +610,42 @@
   		"coordinates": {
     		"latitude": 0.3476,
     		"longitude": 32.5825
+    }
+	 },
+	{
+  	"id": 35,
+  		"agency": "UNDP",
+  		"topic": "Tackling Gender-based Violence",
+  		"country": "Argentina",
+  		"country_code": "AR",
+ 		"continent": "South America",
+  		"title": "Care Model for Survivors of Technology-Facilitated Gender Based Violence (TF-GBV)",
+  		"partner": "Women's Human Rights Institute of Korea (WHRIK)",
+  		"stakeholders": "Secretaría de la Mujer, Ministerio de Desarrollo Humano, de la Provincia de Córdoba",
+  		"budget": "100,000 USD",
+  		"completion_date": "2026",
+  		"description": "This project aims for the development of a specific care model for survivors of technology-facilitated gender-based violence (TF-GBV). Building on the previous SDG Partnership that strengthened integrated GBV services at the Integral Pole of Women in situations of Violence (Polo) in Córdoba Province, this initiative expands the model to address emerging forms of digital violence. This model is tailored for Polo in Córdoba and is based on the adaptation of the WHRIK’s integrated support mechanism for TF-GBV survivors. The project will integrate tailored support systems for TFGBV survivors into the existing care model in Córdoba, enabling immediate operationalization and strengthening the quality and responsiveness of services.",
+  		"coordinates": {
+            "latitude": -38.4161,
+            "longitude": -63.6167
+    }
+	 },
+	{
+  	"id": 36,
+  		"agency": "UNDP",
+  		"topic": "Tackling Gender-based Violence",
+  		"country": "Pakistan",
+  		"country_code": "PK",
+ 		"continent": "Asia",
+  		"title": "Integrated Support Mechanism for Technology-facilitated Gender-based Violence (TF-GBV) Survivors",
+  		"partner": "Women's Human Rights Institute of Korea (WHRIK)",
+  		"stakeholders": "Pakistan Ministry of Human Rights (MoHR), National Cyber Crimes Investigation Agency (NCCIA), Pakistan Telecommunication Authority (PTA)",
+  		"budget": "100,000 USD",
+  		"completion_date": "2026",
+  		"description": "This initiative aims to strengthen national coordination and expand survivor-centred, digital TF-GBV response mechanism. Key targets include (1) establishing a National TFGBV Coordination Cell; (2) expanding digital-response capacity through an AI-enabled safety helpdesk, improved case-handling protocols, and structured engagement with technology platforms; and (3) strengthening prevention through public communication, youth engagement, and the integration of TFGBV content into digital-literacy programmes. Together, these measures aim tol create a more coherent and coordinated ecosystem for TFGBV response and prevention.",
+  		"coordinates": {
+            "latitude": 30.3753,
+            "longitude": 69.3451
     }
 	 }
   ]
